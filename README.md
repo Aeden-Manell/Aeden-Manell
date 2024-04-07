@@ -2,11 +2,7 @@
 
 ## Hi 👋, I'm Aeden Manell
 # A passionate frontend developer from Pretoria, South Africa
-
-###⚡ Fun fact I am passionate about Web development
-
-## Languages and Tools:
-bootstrap css3 figma git html5 javascript react
+##⚡ Fun fact I am passionate about Web development
 
 # My Stats:
 
