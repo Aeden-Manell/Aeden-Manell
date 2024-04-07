@@ -1,12 +1,14 @@
 # Aeden Manell - Front-End Developer
 
+##Hi 👋, I'm Aeden Manell
+#A passionate frontend developer from Pretoria, South Africa
 
+###⚡ Fun fact I am passionate about Web development
 
-
-
+##Languages and Tools:
+bootstrap css3 figma git html5 javascript react
 
 # My Stats:
-
 
 [![](https://raw.githubusercontent.com/Aeden-Manell/AedenManell/master/profile-summary-card-output/great_gatsby/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Aeden-Manell/AedenManell/master/profile-summary-card-output/great_gatsby/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Aeden-Manell/AedenManell/master/profile-summary-card-output/great_gatsby/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
