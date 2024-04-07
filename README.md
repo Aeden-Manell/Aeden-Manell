@@ -1,8 +1,5 @@
 # Aeden Manell - Front-End Developer
-
-## Hi 👋, I'm Aeden Manell
 # A passionate frontend developer from Pretoria, South Africa
-##⚡ Fun fact I am passionate about Web development
 
 # My Stats:
 
