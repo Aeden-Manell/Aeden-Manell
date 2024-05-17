@@ -1,5 +1,5 @@
 # Aeden Manell - Front-End Developer
-## A passionate frontend developer from Pretoria, South Africa
+## 
 
 
 
